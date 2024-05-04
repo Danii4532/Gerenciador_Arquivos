@@ -1,0 +1,23 @@
+Instruções de Uso 
+O usuário precisa ter as bibliotecas OS e Tkinter instaladas, a OS já é nativa do python, porém a tkinter precisa ser instalada, para instalar digite no terminal do seu editor de código
+ou no terminal do CMD:
+pip install tk
+
+Após isso, basta abrir o código no editor e executar.
+Ao executar, o código pede para o usuário selecionar a pasta em que estão os arquivos que serão organizados.
+
+Após selecionar a pasta.
+O código pergunta se há algum arquivo importante que o usuário queira deixar separado, se tiver, o usuário escolhe sim e seleciona os arquivos, que podem ser mais de um.
+
+Após selecionar.
+Os arquivos serão colocados em uma pasta chamada 'ArquivosImportantes(10)'
+
+Depois disso, o código irá separar cada arquivo presente no diretório escolhido em pastas de acordo com a extensão dele, ex:
+Se tem 10 arquivos png, o código cria uma pasta png e adiciona os 10 arquivos nela, o código fará isso com todos os arquivos do diretório.
+
+ATENÇÃO
+O código também deleta todas as pastas vazias que estiverem no diretório, isso é para deixar o diretório mais organizado e limpo
+Após isso o código encerra.
+
+Obrigado
+Aproveitem!!
